@@ -1,0 +1,11 @@
+C:\Users\fic\desktop\Csharp\Meia entrada\bin\Debug\netcoreapp2.2\Meia entrada.deps.json
+C:\Users\fic\desktop\Csharp\Meia entrada\bin\Debug\netcoreapp2.2\Meia entrada.runtimeconfig.json
+C:\Users\fic\desktop\Csharp\Meia entrada\bin\Debug\netcoreapp2.2\Meia entrada.runtimeconfig.dev.json
+C:\Users\fic\desktop\Csharp\Meia entrada\bin\Debug\netcoreapp2.2\Meia entrada.dll
+C:\Users\fic\desktop\Csharp\Meia entrada\bin\Debug\netcoreapp2.2\Meia entrada.pdb
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.csprojAssemblyReference.cache
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.csproj.CoreCompileInputs.cache
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.AssemblyInfoInputs.cache
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.AssemblyInfo.cs
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.dll
+C:\Users\fic\desktop\Csharp\Meia entrada\obj\Debug\netcoreapp2.2\Meia entrada.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.csprojAssemblyReference.cache
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.csproj.CoreCompileInputs.cache
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.AssemblyInfoInputs.cache
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.AssemblyInfo.cs
+C:\Users\fic\desktop\csharp\validação com email\bin\Debug\netcoreapp2.2\validação com email.deps.json
+C:\Users\fic\desktop\csharp\validação com email\bin\Debug\netcoreapp2.2\validação com email.runtimeconfig.json
+C:\Users\fic\desktop\csharp\validação com email\bin\Debug\netcoreapp2.2\validação com email.runtimeconfig.dev.json
+C:\Users\fic\desktop\csharp\validação com email\bin\Debug\netcoreapp2.2\validação com email.dll
+C:\Users\fic\desktop\csharp\validação com email\bin\Debug\netcoreapp2.2\validação com email.pdb
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.dll
+C:\Users\fic\desktop\csharp\validação com email\obj\Debug\netcoreapp2.2\validação com email.pdb

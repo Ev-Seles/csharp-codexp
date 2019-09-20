@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\exercicio13\bin\Debug\netcoreapp2.2\exercicio13.deps.json
+C:\Users\fic\Desktop\Csharp\exercicio13\bin\Debug\netcoreapp2.2\exercicio13.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\exercicio13\bin\Debug\netcoreapp2.2\exercicio13.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\exercicio13\bin\Debug\netcoreapp2.2\exercicio13.dll
+C:\Users\fic\Desktop\Csharp\exercicio13\bin\Debug\netcoreapp2.2\exercicio13.pdb
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.dll
+C:\Users\fic\Desktop\Csharp\exercicio13\obj\Debug\netcoreapp2.2\exercicio13.pdb

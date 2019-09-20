@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\novoexercicio\bin\Debug\netcoreapp2.2\novoexercicio.deps.json
+C:\Users\fic\Desktop\Csharp\novoexercicio\bin\Debug\netcoreapp2.2\novoexercicio.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\novoexercicio\bin\Debug\netcoreapp2.2\novoexercicio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\novoexercicio\bin\Debug\netcoreapp2.2\novoexercicio.dll
+C:\Users\fic\Desktop\Csharp\novoexercicio\bin\Debug\netcoreapp2.2\novoexercicio.pdb
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.dll
+C:\Users\fic\Desktop\Csharp\novoexercicio\obj\Debug\netcoreapp2.2\novoexercicio.pdb

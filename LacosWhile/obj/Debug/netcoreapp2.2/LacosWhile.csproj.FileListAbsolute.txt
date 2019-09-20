@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\LacosWhile\bin\Debug\netcoreapp2.2\LacosWhile.deps.json
+C:\Users\fic\Desktop\Csharp\LacosWhile\bin\Debug\netcoreapp2.2\LacosWhile.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\LacosWhile\bin\Debug\netcoreapp2.2\LacosWhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\LacosWhile\bin\Debug\netcoreapp2.2\LacosWhile.dll
+C:\Users\fic\Desktop\Csharp\LacosWhile\bin\Debug\netcoreapp2.2\LacosWhile.pdb
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.dll
+C:\Users\fic\Desktop\Csharp\LacosWhile\obj\Debug\netcoreapp2.2\LacosWhile.pdb
